@@ -1,0 +1,1 @@
+run /home/yzhang12/Desktop/cvx-a64/cvx/cvx_startup.m
